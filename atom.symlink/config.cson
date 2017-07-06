@@ -38,6 +38,10 @@
       "vendor"
     ]
     telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "ariake-dark-syntax"
+    ]
   editor:
     fontFamily: "Menlo"
     fontSize: 15
@@ -62,6 +66,8 @@
     ]
   stylefmt:
     formatOnSave: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
 ".js.jsx.react.source":
