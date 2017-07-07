@@ -1,3 +1,15 @@
 .DS_Store
 *~
 *.swp
+
+*xcuserdata/
+.DS_Store
+Pods/
+node_modules/
+xcshareddata/
+*.swp
+.ruby-version
+.env
+
+fastlane/README.md
+fastlane/report.xml
