@@ -44,7 +44,6 @@
     ]
   editor:
     fontFamily: "Menlo"
-    fontSize: 15
     invisibles: {}
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
@@ -66,7 +65,8 @@
     ]
   stylefmt:
     formatOnSave: true
-  "tree-view": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
 ".js.jsx.react.source":
