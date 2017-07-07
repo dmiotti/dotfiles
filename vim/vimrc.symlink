@@ -17,7 +17,7 @@ set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
 
 set backspace=2 " make backspace work like most other apps
 
-colorscheme cobalt2
+colorscheme onedark
 set number
 
 set statusline+=%#warningmsg#
