@@ -14,3 +14,5 @@ let g:jsx_ext_required = 0
 let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
 
 set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
+
+set backspace=2 " make backspace work like most other apps
