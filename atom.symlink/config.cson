@@ -40,7 +40,7 @@
     telemetryConsent: "no"
     themes: [
       "one-dark-ui"
-      "ariake-dark-syntax"
+      "cobalt2-syntax"
     ]
   editor:
     fontFamily: "Menlo"
@@ -66,8 +66,7 @@
     ]
   stylefmt:
     formatOnSave: true
-  "tree-view":
-    hideVcsIgnoredFiles: true
+  "tree-view": {}
   welcome:
     showOnStartup: false
 ".js.jsx.react.source":
