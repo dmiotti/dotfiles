@@ -11,7 +11,7 @@ let g:airline#extensions#tabline#left_alt_sep = '|'
 
 let g:jsx_ext_required = 0
 
-let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git'
+let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git\|test/reports'
 
 set tabstop=2 softtabstop=0 expandtab shiftwidth=2 smarttab
 
@@ -29,3 +29,4 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
+set autoread
