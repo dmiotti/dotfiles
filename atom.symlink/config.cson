@@ -37,6 +37,7 @@
       "tmp"
       "vendor"
     ]
+    restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
     themes: [
       "one-dark-ui"
