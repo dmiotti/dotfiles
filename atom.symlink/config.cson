@@ -26,6 +26,7 @@
       "background-tips"
       "exception-reporting"
       "metrics"
+      "prettier-atom"
     ]
     followSymlinks: false
     hideGitIgnoredFiles: true
@@ -44,18 +45,23 @@
       "cobalt2-syntax"
     ]
   editor:
-    fontFamily: "Menlo"
-    fontSize: 16
+    fontFamily: "consolas"
     invisibles: {}
     showIndentGuide: true
-    softWrapAtPreferredLineLength: true
   "go-plus":
     panelDisplayMode: "closed"
   "linter-eslint":
+    eslintrcPath: ".eslintrc.js"
+    fixOnSave: true
     useGlobalEslint: true
+  "linter-ui-default": {}
   "prettier-atom":
     formatOnSaveOptions:
       enabled: true
+    prettierOptions:
+      semi: false
+      singleQuote: true
+    useEslint: true
   "release-notes":
     viewedVersion: "0.89.0"
   "spell-check":
@@ -67,9 +73,12 @@
     ]
   stylefmt:
     formatOnSave: true
-  "tree-view": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
 ".js.jsx.react.source":
   editor:
     autoIndent: true

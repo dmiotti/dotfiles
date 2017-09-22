@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1502449690539,
+	"update": {
+		"latest": "7.0.1",
+		"current": "6.5.0",
+		"type": "major",
+		"name": "cordova"
+	}
+}

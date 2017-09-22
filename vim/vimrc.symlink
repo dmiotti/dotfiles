@@ -2,6 +2,9 @@ call pathogen#infect()
 
 syntax on
 
+let mapleader = ","
+nmap <leader>ne :NERDTreeToggle<CR>
+
 " Wrap gitcommit file types at the appropriate length
 filetype indent plugin on
 
@@ -31,3 +34,5 @@ let g:syntastic_check_on_wq = 0
 
 let g:javascript_plugin_jsdoc = 1
 set autoread
+
+set relativenumber

@@ -1,1 +1,1 @@
-alias vscode="open -a vscode"
+alias vscode="open -a 'Visual Studio Code'"
