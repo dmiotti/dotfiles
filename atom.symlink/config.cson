@@ -46,6 +46,7 @@
     ]
   editor:
     fontFamily: "consolas"
+    fontSize: 16
     invisibles: {}
     showIndentGuide: true
   "go-plus":
@@ -61,7 +62,6 @@
     prettierOptions:
       semi: false
       singleQuote: true
-    useEslint: true
   "release-notes":
     viewedVersion: "0.89.0"
   "spell-check":
