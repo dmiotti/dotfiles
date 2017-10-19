@@ -3,7 +3,7 @@
 	"motd": {
 		"minVersion": "3.0.5"
 	},
-	"motd.fetched": 1506172090278,
+	"motd.fetched": 1508143739459,
 	"usage": false,
 	"user": {
 		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
@@ -18,7 +18,7 @@
 		"exp": 1506175698
 	},
 	"tokens": {
-		"expires_at": 1506187216683,
+		"expires_at": 1508160630470,
 		"refresh_token": "1/nn8S-ylNU5Y1dkxz6d7-lzj8u-goUsjXmJJoH4zJ38g",
 		"scopes": [
 			"email",
@@ -27,15 +27,16 @@
 			"https://www.googleapis.com/auth/firebase",
 			"openid"
 		],
-		"access_token": "ya29.GlvPBHOFhGoofZtAtq9UQIiObGw53z2a5o-iqngiVau8H_U2hZkYOHU0lP_ajZ_weAPpSgiJdIJWWAXdEw2Kmx-NutoowD-ryKyVrcV2VJ5gQS-TAfRN8lgHRTid",
+		"access_token": "ya29.GlzmBF9-7hsfS_a2FznBq_9jZtaVyG_SPVQUoCGByYsyMjrWBL4PD8CohBAjoAEs9jDbHnif6qhShRgXDpzvK807HvflTxnD6RPGuSUEDTpCwDRi56_nlU799dqhaA",
 		"token_type": "Bearer",
 		"expires_in": 3600,
-		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjhiYjJmMGNkOGZkYjlkNGE5YTMwZmMyN2U2ZjU3M2UxNTdiMzY1NWMifQ.eyJhenAiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDM4NDE2NDI2MjI2MTI2Mjg1MjUiLCJoZCI6Im11eHVtdXh1LmNvbSIsImVtYWlsIjoiZGF2aWRAbXV4dW11eHUuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiIxbVpGc244cTJxUEhnVkhhN2Zfa2l3IiwiaXNzIjoiYWNjb3VudHMuZ29vZ2xlLmNvbSIsImlhdCI6MTUwNjE4MzYxNiwiZXhwIjoxNTA2MTg3MjE2fQ.rce8Lg9nCmTDSvtYTK_DfxDZ-gb2ocPt5FreKgF7mAcWkVFzcIyFNwzGUEjqBx7hXxjXf_2iyJdvQxtTn1pt8Ee60zY549M_Vv2ni4TMVv2S9_TU9cyUhJFcmHSiLmiCDUoDJXefZOSoLsrlUUsX8ZUU-rbqNwi9i338Xpc2KPaSZao6ivE6JeZu5X_gxyHBUUDIEcTtZ3vSpc9_Ry4nYFJ3cbxWbpPZOtOCYZwJPm2O8wbhKJQ-EZlfEgT1mSoFsP55OwFST1ILXrooKeK0pnXIwthpDNsk9zYwnn0y8aY6cgOQU9oYK-f_-Xzs4QoE4EfZutYhKFo15DV0RjTWpg"
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjcyY2I4NjBmMTg0NmEwZjAxYzFiMTkzZThiMGQzMzczODRiZTUxZDEifQ.eyJhenAiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDM4NDE2NDI2MjI2MTI2Mjg1MjUiLCJoZCI6Im11eHVtdXh1LmNvbSIsImVtYWlsIjoiZGF2aWRAbXV4dW11eHUuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJFWkhhS1pVYURZTXBvdzNJcjBMVHhnIiwiaXNzIjoiYWNjb3VudHMuZ29vZ2xlLmNvbSIsImlhdCI6MTUwODE1NzAzMCwiZXhwIjoxNTA4MTYwNjMwfQ.mXeKDs6HQCLMMIX_hOyuXc7PuCkNtp1rAIi2gOr2Ont-38_GUEcds_Cg3TQWkUGwVV8lgH7WfKdJHSthgoKLCLfzmgTlkb5b3zrpiz7ECY9OUphfTnxaEj2E40227vAE65YyaT38FNT418wJKYooe7XUnt4VMJz82VRa3XHiYuIaH0US0-u0aVLFvPjKD_qoocknF6kdnyVoX19GDOroj8Lft8tvwaoytv2Nkn66mu1LaRxlBFeIDJnsi5_QOJAdproWjTuxGCX_bVeA-AoIwTAfFNE0kz9SwWbQ4JgZgZ1kAAjz14XgdoarQhVHN1cpVRNteTmHSfMIEFr4yzhStw"
 	},
 	"activeProjects": {
 		"/Users/davidmiotti/projects/muxumuxu": "papier-95b3e",
 		"/Users/davidmiotti/projects/muxumuxu/papier-firebase": "papier-818fc",
 		"/Users/davidmiotti/projects/muxumuxu/papier/functions": "papier-818fc",
-		"/Users/davidmiotti/projects/muxumuxu/papier/firebase": "default"
+		"/Users/davidmiotti/projects/muxumuxu/papier/firebase": "default",
+		"/Users/davidmiotti/projects/muxumuxu/Papier/firebase": "production"
 	}
 }
